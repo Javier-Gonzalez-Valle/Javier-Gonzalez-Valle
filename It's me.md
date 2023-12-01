@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center"> 👋Hi, I am <a href="[https://aristi.dev](https://www.linkedin.com/in/javier-gonz%C3%A1lez-valle-2350b022a/)">Javier González</a> 👋</h1>
+<h1 align="center"> 👋Hi, I am <a href="https://www.linkedin.com/in/javier-gonz%C3%A1lez-valle-2350b022a/">Javier González</a> 👋</h1>
 </div>
 
 - 👀 I’m interested in the world of Data Analysis. I come from the field of International Relations, where I have been in contact with the world of data.  It is an environment where I am eager to grow and establish myself as a professional. 
